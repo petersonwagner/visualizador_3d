@@ -2,8 +2,9 @@
 
 Este projeto consiste em construir um programa para ler uma descrição de objeto em 3 dimensões de um arquivo em disco e apresentar na tela a visualização desse objeto, considerando uma projeção em perspectiva.
 
-Os requisitos do projeto são:
+![teapot](teapot.png?raw=true "Teapot")
 
+Os requisitos do projeto são:
 - Ler a descrição de objeto 3D de um arquivo em disco. O objeto está descrito no formato Wavefront OBJ, usado em ferramentas de modelagem/visualização 3D como Blender, 3Dstudio e Rhino.
 - Calcular a projeção em perspectiva dos vértices e arestas do objeto.
 - Mostrar em uma janela gráfica a projeção obtida com representação wireframe, usando uma biblioteca gráfica.
